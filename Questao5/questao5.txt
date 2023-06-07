@@ -1,0 +1,4 @@
+5ª - Crie uma experiência básica de interação com o usuário por comandos
+no teclado para simular um jogo bem simples.
+Obs: Sugestões de jogos: Pong, Tetris, Dino Game (Chrome Offline).
+Pode ser criativo e imaginar seu próprio jogo.

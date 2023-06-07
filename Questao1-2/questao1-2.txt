@@ -1,0 +1,4 @@
+1ª - Crie 5 diferentes figuras geométricas 2D (quadrado, triângulo, etc) e
+apresente-as em uma mesma tela com cores distintas;
+2ª - Escolha uma das figuras 2D criadas e faça as três seguintes operações:
+translação, rotação e mudança de escala;

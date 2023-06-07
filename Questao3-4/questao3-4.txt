@@ -1,0 +1,4 @@
+3ª - Crie 3 diferentes figuras geométricas 3D (cubo, esfera, etc) e
+apresente-as em uma mesma tela com cores distintas;
+4ª - Escolha uma das figuras 3D criadas e faça duas das seguintes
+operações: translação, rotação, mudança de escala;
