@@ -7,7 +7,7 @@ O grupo é composto por:
 - Cayo Ricardo Milhomem de Sousa Cutrim
 - Luis Gustavo Diniz Pereira
 - Thiago González
-- Yago Alexandre
+- Yago Alexandre Goltara Affonso
 
 ## Pré-requisitos
 
