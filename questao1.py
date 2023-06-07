@@ -6,7 +6,6 @@ from OpenGL.GL import *
 from OpenGL.GLU import *
 #definindo formas geométricas
 
-#
 pygame.init()
 largura, altura = 800, 600
 tela = pygame.display.set_mode((largura, altura), DOUBLEBUF | OPENGL)
@@ -15,7 +14,6 @@ glMatrixMode(GL_PROJECTION)
 glLoadIdentity()
 glOrtho(0, largura, altura, 0, 1, -1)
 glMatrixMode(GL_MODELVIEW)
-
 
 def desenhar_quadrado():
     glBegin(GL_QUADS)
