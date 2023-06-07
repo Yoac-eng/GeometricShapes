@@ -51,7 +51,7 @@ The group is represented by:
 - Cayo Ricardo Milhomem de Sousa Cutrim
 - Luis Gustavo Diniz Pereira
 - Thiago González
-- Yago Alexandre
+- Yago Alexandre Goltara Affonso
 
 ## Prerequisites
 
